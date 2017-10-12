@@ -18,7 +18,14 @@
     [super viewDidLoad];
 
     NSLog(@"测试上传代码");
+    NSLog(@"测试push");
 
+    
+    
+    
+    NSLog(@"xxxxxxxxxxxx")
+    
+    
 }
 
 
